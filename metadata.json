@@ -1,0 +1,6 @@
+{
+  "name": "The Debris Monitor",
+  "description": "Disaster recovery simulation game mastering FEMA debris monitoring roles, ADMS origin ticketing, TDSR disposal load calls, LHS leaners & hangers, and truck geometric certifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
